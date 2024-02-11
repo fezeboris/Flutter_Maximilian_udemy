@@ -37,7 +37,7 @@ class WelcomeScreen extends StatelessWidget {
                   foregroundColor: const Color.fromARGB(178, 255, 255, 255)),
               icon: const Icon(Icons.arrow_right_alt),
               label: const Text(
-                ' Start Quiz',
+                'Start Quiz',
               ))
         ],
       ),
