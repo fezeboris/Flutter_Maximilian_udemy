@@ -10,6 +10,7 @@ class CategoryGridItem extends StatelessWidget {
 
   final Category category;
   final void Function() onSelectCategory;
+
   @override
   Widget build(BuildContext context) {
     return InkWell(
